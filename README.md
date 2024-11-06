@@ -3,7 +3,7 @@
 - 🎓 Cursando Estatística e Ciências de Dados pela Universidade Federal do Paraná
 - 🤔 Uso diariamente ```.r```, ```.pbix```, ```.sql```
 - 🌱 Atualmente aprendendo sobre Modelagem de Banco de Dados e Arquitetura de Dados
-- 📫 E-mail: [email](mailto:raymundopilz@gmail.com)
+- 📫 E-mail: raymundopilz@gmail.com
 
 <h1 align="left">Tecnologias e Ferramentas</h1>
 
